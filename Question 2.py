@@ -1,6 +1,6 @@
-name = "AAYUSH"
-SID = "21107001"
-CGPA = "9.9"
+name = "BHAVYA"
+SID = "21107035"
+CGPA = "9.5"
 department_name = "MECHANICAL"
 
 
